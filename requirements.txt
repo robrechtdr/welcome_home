@@ -1,0 +1,11 @@
+Flask==0.10.1
+fabric==1.8.3
+
+# For integration testing
+splinter==0.6.0  # Wrapper around selenium
+Flask-Testing==0.4.1
+
+# For Sentry
+raven==4.1.1
+blinker==1.3
+

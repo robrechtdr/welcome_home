@@ -1,0 +1,5 @@
+.env
+welcome_home_findings/*
+jenkins-ci.org.key
+*.pyc
+*.swp
